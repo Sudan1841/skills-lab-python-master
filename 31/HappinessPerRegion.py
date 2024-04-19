@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: A program that creates a boxplot of the state of happiness per regions in the world using the world_happiness.csv dataset.
 
 import matplotlib.pyplot as plt

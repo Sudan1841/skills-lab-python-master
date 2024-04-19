@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: A program that reads two points in a plane (x1,y1) and (x2,y2) and determines the Euclidean distance between them.
 
 import math

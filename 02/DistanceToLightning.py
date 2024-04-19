@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: A program that determines the distance to a lightning strike based on the time elapsed between the flash and the sound of thunder (in seconds).
 
 time = eval(input("Elapsed time? "))

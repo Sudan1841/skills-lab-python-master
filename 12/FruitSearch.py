@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: A program that asks the user for the name of a fruit to search for. If the fruit is in the list (from the previous example), the program should say "fruit is available." Otherwise, the program should just print "fruit not found!"
 
 fruits = ["orange", "strawberry", "blueberry", "banana"]

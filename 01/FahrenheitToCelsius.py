@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: A program that asks the user for a temperature in Fahrenheit, converts it to Celsius, and displays the result back to the user.
 
 fahrenheit = eval(input("Fahrenheit? "))

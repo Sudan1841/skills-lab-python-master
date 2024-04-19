@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: A program that plot data points in an attempt to show an association between income and happiness. Then, modify the program and try to model the association using a linear regression tool.
 
 import statsmodels.api as sm

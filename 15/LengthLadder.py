@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+## MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: A program to determine the length of a ladder required to reach a given height when leaned against a wall at a certain degree angle.
 
 import math

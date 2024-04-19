@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: Write a program that allows a teacher to enter and save students' names and grades.
 # The program should save the students in a CSV file.
 

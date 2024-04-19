@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: Reads a person’s name and computes the corresponding username (the user’s first initial followed by up to seven letters of the user’s last name)
 
 first = input('first? ')

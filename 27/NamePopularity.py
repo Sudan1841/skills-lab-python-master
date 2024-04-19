@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: File baby_names.csv contains the top 1,000 most popular names in U.S. in 2008
 # Write a program that reads a name from the user and determines its popularity.
 

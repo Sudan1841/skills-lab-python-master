@@ -1,5 +1,5 @@
-# MSU Denver - Skills Lab - Summer 2020
-# Instructor: Thyago Mota
+# MSU Denver - Skills Lab - 2020
+# student: Abdulmajid Hasssan
 # Description: A program that asks the user to enter a nonnegative number. The program should then display all the nonnegative numbers that are less than the given numbers. 
 
 n = eval(input("n? "))
